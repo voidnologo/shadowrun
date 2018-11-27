@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Scrapyard Part 2: Supremely Silent Security Scuffles
+title: "The Scrapyard Part 2: Supremely Silent Security Scuffles"
 ---
 
 Our adventure began where the last one left off: in the middle of a forsaken scrap yard.

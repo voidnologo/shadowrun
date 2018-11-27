@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Scrapyard Part 1: Creeping Through Garbage
+title: "The Scrapyard Part 1: Creeping Through Garbage"
 ---
 
 Our adventure began outside a loud and smelly scrap metal processing plant. Following the

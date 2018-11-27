@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Scrapyard Part 3: Escape from Certain Slobbery Death
+title: "The Scrapyard Part 3: Escape from Certain Slobbery Death"
 ---
 
 Our adventure began in the computer room in the office building of the Forsaken Scrapyard.
