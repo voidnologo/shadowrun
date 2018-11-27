@@ -1,0 +1,13 @@
+title: F' Worlds Fantasy Adventure Group
+author: f_worlds
+description: Fantasy Is Fun
+
+highlighter: null
+permalink: /:title
+
+url:
+baseurl:
+
+# Custom options:
+# color_scheme: azul|ruby|amber|avocado
+# color_scheme: avocado
