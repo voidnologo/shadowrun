@@ -5,8 +5,8 @@ description: Fantasy Is Fun
 highlighter: null
 permalink: /:title
 
-url:
-baseurl:
+url: http://voidnologo.com/shadowrun
+baseurl: /shadowrun
 
 # Custom options:
 # color_scheme: azul|ruby|amber|avocado
