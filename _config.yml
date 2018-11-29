@@ -5,6 +5,7 @@ description: RPGing Is Fun
 highlighter: null
 permalink: /:title
 
+f_worlds_url: http://voidnologo.com/fworlds
 url: http://voidnologo.com/shadowrun
 baseurl: /shadowrun
 
