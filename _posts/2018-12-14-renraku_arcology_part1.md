@@ -87,7 +87,7 @@ worked in the arcology, then pointed out that there were elevators at the top of
 escalators to the left. Clem asked (as nicely as a barbarian can) for further directions,
 and Aneki shut back down, mumbling something that sounded like "Escalators go up..."
 
-The team stealthily started up the escauators, but pulled up short at the sound of murmuring
+The team stealthily started up the escalators, but pulled up short at the sound of murmuring
 voices. The sound was vaguely humanoid, but there was just something a little _off_. Pary
 (with that familiar mad gleam in her eye), lit up her flamethrower (you know, just in
 case), and the team continued upward.
