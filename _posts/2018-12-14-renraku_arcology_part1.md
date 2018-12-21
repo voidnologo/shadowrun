@@ -16,7 +16,7 @@ in the past started to get antsy and backed out of deals. Rhineholt got home one
 discover that his house had been broken into, and all three runners got the odd feeling
 that someone was watching them.
 
-On The Day, the runners - accompanied by Ronan, Dodger, and Aneki - found themselves being
+On The Day, the runners - accompanied by Ronin, Dodger, and Aneki - found themselves being
 escorted through the elegant and awe-inspiring Orc Underground by Tholm the troll and Slant
 the orc. Upon slipping through a manhole into The Underground, the runners discovered
 that it wasn't all it was cracked up to be. In fact, the tunnels were really pretty gross
@@ -28,9 +28,9 @@ trigger an emergency (and quite permanent) closing of the tunnel.
 After dropping through a hole in the ceiling into the corner of an underground parking
 garage, the runners were met by the sight of Medusa drones chasing terrified soldiers
 through the parking garage. The runners dove behind some nearby cars, hoping to avoid the
-scuffle. In her hurry to save her own behind, Pary bumped into poor unsuspecting Ronan,
+scuffle. In her hurry to save her own behind, Pary bumped into poor unsuspecting Ronin,
 who stumbled out of cover and into the path of the oncoming drones. The drones, shocked
-and slightly embarrassed at the sight of Ronan in the open, turned their attention towards
+and slightly embarrassed at the sight of Ronin in the open, turned their attention towards
 the team.
 
 Medusa One (MO) leaped at the car sheltering the runners, crushing in the side and shattering
@@ -51,7 +51,7 @@ Manta drones. (To be more accurate, one soldier was fleeing a Manta, and the oth
 had already lost.) Clem shot down the pursuing Manta, and the fleeing soldier asked the
 team for helping reconnecting with the other soldiers. The runners agreed on the condition
 that he would help them sneak past the other military forces. After a bit of hesitation,
-the soldier agreed, and the runners (plus Ronan, Dodger, and Aneki, who have done _nothing_
+the soldier agreed, and the runners (plus Ronin, Dodger, and Aneki, who have done _nothing_
 useful up to this point) set off into the arcology.
 
 Not far into the arcology, the runners and their guide spot some soldiers patrolling in
@@ -74,7 +74,7 @@ the hall, they could _just_ make out a glass double door. The team rushed to the
 to find it locked. The skittering was getting closer. Rhineholt leaned against the glass
 and peered down, allowing him to use magic fingers on the push bar on the other side of
 the door. After a few minutes of intense concentration, the door suddenly swung open,
-bloodying Rhineholt's nose and knocking him backwards into Ronan (that poor guy). There
+bloodying Rhineholt's nose and knocking him backwards into Ronin (that poor guy). There
 was a moment of ominous silence followed by a loud skittering and the sound of alarms.
 
 The team bolted through the open door, letting it slam shut behind them. The area before
@@ -119,7 +119,7 @@ point, the ghouls (bright creatures that they were) decided that their chances m
 better if they stopped coming in one massive drove, so they drew back a bit to start
 flanking the runners.
 
-Clem pulled open the other elevator door and helped Ronan, Dodger, Aneki, and Rhineholt
+Clem pulled open the other elevator door and helped Ronin, Dodger, Aneki, and Rhineholt
 onto the ladder while Pary provided cover fire courtesy of the flamethrower. Clem pulled
 Pary away from a pyromaniac's wildest dream to put her on the ladder beneath Rhineholt,
 then jumped for the ladder himself. As he swung into position on the ladder, the first

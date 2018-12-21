@@ -3,7 +3,7 @@ layout: post
 title: Too Sexy For This Run
 ---
 
-Our adventure began about three floors up from the ghoul waterfall. Aneki, Ronan, and
+Our adventure began about three floors up from the ghoul waterfall. Aneki, Ronin, and
 Dodger, not being the smashingly fit specimens that our runners clearly are, were quite
 winded and found themselves in need of a breather. Clem opened the elevator doors on the
 nearest floor, and our whole merry band exited the shaft for a bit of a lie-down. Rhineholt,
@@ -31,7 +31,7 @@ the blood-streaked interior of the elevator car. Despite the mess, the group pil
 the car (it was bigger on the inside). The buttons on the inside of the elevator went up
 to 150, so the team arbitrarily chose 145 in the hopes of not walking into a trap on the
 top floor. One of them summoned the nerve to press the button in spite of the blood
-spatters, and.... nothing happened. Ronan, finally doing something useful and not just
+spatters, and.... nothing happened. Ronin, finally doing something useful and not just
 standing in the way, pulled out some sort of electronic tool and fiddled mysteriously with
 the control panel. After a moment there was a buzz of electricity, and the elevator began
 to rise.
@@ -59,7 +59,7 @@ And some other kind of shape, it'll come to me in a minute."
 
 Clem, maybe letting his frustration get the best of him just a tiny bit, suggested that
 maybe Aneki should try the puzzle. Aneki shrugged innocently and began to wander into the
-room, stopped only when Ronan and Dodger pulled him back, giving the orc their nastiest
+room, stopped only when Ronin and Dodger pulled him back, giving the orc their nastiest
 looks.
 
 After a brief consultation, the runners decided to attempt the puzzle themselves. Clem
@@ -74,7 +74,7 @@ he slid. Soon enough the tubes deposited him in a large warehouse, filled with s
 unseen smoke machines and lit only with strobe lights. A booming voice that seemed to come
 from everywhere at once declared, "Let the games begin!"
 
-A few floors above, Pary and the Overwatch agents also heard the declaration. Ronan and
+A few floors above, Pary and the Overwatch agents also heard the declaration. Ronin and
 Dodger swore a bit, then explained to Pary that the games in question were DEUS's way of
 testing those who would enter the arcology. With their usual amounts of charm and empathy
 (please note the sarcasm), they told Pary that her friends would be hunted down and
